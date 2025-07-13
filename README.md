@@ -1,4 +1,4 @@
-# 🌦️ Weather Dashboard in Power BI (Live API Integration)
+# 🌦️ Weather Forecast Dashboard in Power BI (Live API Integration)
 
 ## 📌 Project Objective
 
